@@ -16,6 +16,12 @@ public class Payment {
         this.value = value;
     }
 
+    public Payment(Integer userId, Integer saleId, BigDecimal value) {
+        this.userId = userId;
+        this.saleId = saleId;
+        this.value = value;
+    }
+
     private Integer id;
 
     private Integer userId;
