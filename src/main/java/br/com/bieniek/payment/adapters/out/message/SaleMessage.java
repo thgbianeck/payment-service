@@ -1,4 +1,4 @@
-package br.com.bieniek.payment.adapters.out;
+package br.com.bieniek.payment.adapters.out.message;
 
 import br.com.bieniek.payment.application.core.domain.Sale;
 import br.com.bieniek.payment.application.core.domain.enums.SaleEvent;
